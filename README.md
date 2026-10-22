@@ -3,7 +3,7 @@
 End-to-end analysis of Brazilian e-commerce data (Olist) in Excel: **Power Query → Data Model → DAX → Pivot Tables → Interactive Dashboard**.
 
 
-**[Download the Excel file]([PASTE-YOUR-LINK-HERE](https://docs.google.com/spreadsheets/d/1poq0YHqxMaI0mby6FpXPcEjhZTOQwdo7/edit?usp=sharing&ouid=114748847181758586771&rtpof=true&sd=true))**
+**[Download the Excel file](https://docs.google.com/spreadsheets/d/1poq0YHqxMaI0mby6FpXPcEjhZTOQwdo7/edit?usp=sharing&ouid=114748847181758586771&rtpof=true&sd=true)**
 
 The dashboard has 3 pages: **Sales**, **Reviews**, and **Delivery**.
 
